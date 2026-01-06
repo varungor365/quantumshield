@@ -1,0 +1,18 @@
+# Byte-compiled
+__pycache__/
+*.py[cod]
+
+# Keys and encrypted files
+*.pub
+*.priv
+*.pqc
+*.sig
+keys/
+
+# Virtual environments
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/

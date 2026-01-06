@@ -1,0 +1,10 @@
+# Core cryptography
+cryptography>=41.0.0
+
+# Post-quantum crypto (for real implementation)
+# pqcrypto>=0.1.7
+# liboqs-python>=0.7.2
+
+# Utilities
+pyyaml>=6.0
+colorama>=0.4.6
