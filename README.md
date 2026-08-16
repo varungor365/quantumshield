@@ -425,3 +425,11 @@ GPL-3.0 - See [LICENSE](LICENSE)
 *Future-proofing cryptography before quantum computers arrive.*
 
 **🔮 The quantum threat is real. Are you protected?**
+
+## Who this is for
+
+QuantumShield is a post-quantum cryptography research toolkit for studying NIST-standardized algorithms, hybrid key exchange, and migration considerations. It is a learning and research project, not a replacement for a reviewed cryptographic library.
+
+## Why star this repository
+
+Star this project if post-quantum cryptography, hybrid TLS, or practical cryptography migration research is relevant to you.
