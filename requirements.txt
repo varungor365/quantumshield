@@ -1,5 +1,5 @@
 # Core cryptography
-cryptography>=41.0.0
+cryptography>=50.0.1
 
 # Post-quantum crypto (for real implementation)
 # pqcrypto>=0.1.7
